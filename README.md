@@ -3,4 +3,5 @@ i will know where to find all the files that i have previously worked on and tha
 _____________________________________________________________________________________________________________________________
 The term project for that class that i chose to work on, was the implementation of the boolean satisfiability using the infamous genetic algorithm.
 The whole point was to make sure that the NP Hard problem can be solved using a known NP or can take exponential time for solving the problem.
+
 -----------------------------------------------------------------------------------------------------------------------------
